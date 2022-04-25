@@ -1,10 +1,19 @@
-# Search Bar Demo
+## Search Bar Demo
 
-Create React App
+Create the React App
 
-`npx create-react-app react-search-bar`
+```bash
+npx create-react-app react-search-bar
+```
+
+Go to the project directory
+
+```bash
+cd react-search-bar
+```
 
 In the project directory, you can run:
-### `cd react-search-bar`
-### `npm start`
 
+```bash
+npm start
+```
